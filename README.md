@@ -12,8 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://blur-qr-site-url.com)
+- Live Site URL: (https://blur-qr-site-url.com)
 
 
 ### Built with
@@ -33,5 +32,5 @@ process and make your work easier!
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/the0xtobi)
 - Twitter - (https://www.twitter.com/the0xtobi)
