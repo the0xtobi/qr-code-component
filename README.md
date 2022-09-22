@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: (https://blur-qr-code-component.netlify.app)
+- Live Site : (https://blur-qr-code-component.netlify.app)
 
 
 ### Built with
